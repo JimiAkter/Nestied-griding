@@ -1,0 +1,36 @@
+.header{
+    margin: 20px 0px;
+    background-color: rgb(128, 117, 117);
+    padding: 14px 0px;
+}
+
+.box{
+    margin: 5px 0px;
+    background: rgb(234 170 114);
+    height: 80px;
+    border: 4px solid #921111;
+    font-size: 27px;
+    color: #860505;
+    text-align: center;
+    
+}
+.box2{
+    margin: 5px 0px;
+    background: black;
+    height: 80px;
+    border: 4px solid #ce0707;
+    font-size: 27px;
+    color:rgb(234 170 114);
+    text-align: center;
+    
+   
+}
+.hero ,.body ,.bar ,.footer{
+    margin: 20px 0px;
+    background-color: rgb(128, 117, 117);
+    padding: 14px 0px;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
